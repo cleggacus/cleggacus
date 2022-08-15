@@ -1,6 +1,6 @@
 [![banner](assets/banner.jpg)](https://github.com/cleggacus)
 
-Hey my name is Liam and I am a Web Developer / Software Engineer from the UK currently studing a bachelor's degree in computer science at Swansea Univeristy.
+Hey my name is Liam and I am a Web Developer / Software Engineer from the UK currently studying for a bachelor's degree in computer science at Swansea University.
 
 ## Stats
 [![Liam's github stats](https://github-readme-stats.vercel.app/api?username=cleggacus&show_icons=true&theme=material-palenight)](https://github.com/cleggacus)
