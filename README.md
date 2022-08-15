@@ -7,6 +7,4 @@
 <a href="https://twitter.com/cleggacus"><img align="left" src="assets/twitter.svg" alt="Liam Clegg | LinkedIn" width="30px"/></a>
 
 <a href="https://www.instagram.com/cleggacus/"><img align="left" src="assets/instagram.svg" alt="Liam Clegg | LinkedIn" width="30px"/></a>
-
-<a href="https://medium.com/@cleggacus"><img align="left" src="assets/medium.svg" alt="Liam Clegg | LinkedIn" width="30px"/></a>
 </p>
