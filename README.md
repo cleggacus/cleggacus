@@ -3,8 +3,6 @@
 Hey my name is Liam and I am a Web Developer / Software Engineer from the UK currently studying for a bachelor's degree in computer science at Swansea University.
 
 ## Stats
-[![Liam's github stats](https://github-readme-stats.vercel.app/api?username=cleggacus&show_icons=true&theme=material-palenight)](https://github.com/cleggacus)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleggacus&layout=compact&theme=material-palenight&hide=Vim+script&langs_count=6)](https://github.com/cleggacus)
 
 
